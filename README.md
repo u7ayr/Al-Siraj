@@ -1,16 +1,9 @@
-# fyp
+![Copy of Bus Reservation](https://github.com/u7ayr/Bus-Reservation-System/assets/140242504/3b37edf7-c4db-4112-ac62-4a1ba2047313)
 
-A new Flutter project.
+Al-Siraj, an innovative Islamic chatbot application that leverages the power of artificial intelligence to provide a natural and interactive dialogue with users. Al-Siraj is specifically designed to cater to the needs of the children's community, as they may feel hesitant or unsure about asking questions related to their faith. The chatbot is carefully supervised and programmed using Python, while the application itself is developed using Flutter, a cross-platform development framework.
 
-## Getting Started
+It have 3 Modules
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Chatbot
+2. Tasbeeh Counter
+3. Azan Alarm
